@@ -1,0 +1,12 @@
+/*Name: Nwanya Christopher C
+Student number: 8903828 */
+body {
+    font: 12px "Helvetica", san-serif;
+    background-color: hsla(224, 100%, 50%, 1);
+    height: 100vh;
+    width: 100vw;
+}
+h2{
+    color: #999;
+    font-size: 2rem;
+}
